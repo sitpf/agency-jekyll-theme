@@ -54,9 +54,9 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: 20, rue Legendre
-  - line: tel
-  - line: mail: sitpf95@gmail.com
-  - line: n° aut.préf.79501-13.446
+  - line: "tel: +33 (0) 6 07 30 96 97"
+  - line: "mail: sitpf95@gmail.com"
+  - line: "n° aut.préf.79501-13.446"
 
 # Build settings
 markdown: kramdown
